@@ -25,6 +25,7 @@ public void CrossBrowser(){
 	driver.manage().window().maximize();
 	driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 	driver.get("https://www.facebook.com");
+	//MULTIPLEBROWSER
 	
 }
 }
