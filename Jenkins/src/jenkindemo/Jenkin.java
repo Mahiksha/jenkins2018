@@ -14,6 +14,7 @@ public class Jenkin {
 		System.setProperty("Webdriver.chrome.driver","chromedriver.exe");
 		driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
 		driver.get("https://www.facebook.com/");
+		System.out.println("I love facebook");
 		driver.close();
 		
 		
