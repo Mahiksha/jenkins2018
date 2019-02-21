@@ -1,4 +1,4 @@
-package jenkindemo;
+package src.jenkindemo;
 
 import java.util.concurrent.TimeUnit;
 
